@@ -1,0 +1,5 @@
+{
+  "client_api": "allow",
+  "api_redis": "allow",
+  "client_redis": "deny"
+}
